@@ -1,0 +1,16 @@
+{
+  "name": "error-handling",
+  "version": "1.0.0",
+  "description": "This is an implementation of a middleware to handle express errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "handleing",
+    "handler"
+  ],
+  "author": "developeruche",
+  "license": "ISC"
+}
